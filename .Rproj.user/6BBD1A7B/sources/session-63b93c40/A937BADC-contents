@@ -1,0 +1,10 @@
+Package: gbifim
+Type: Package
+Title: Help for GBIF ingestion management issues
+Version: 0.1.0
+Author: person("John", "Waller", , "jwaller@gbif.org", role = c("aut", "cre"))
+Description: Helper functions for dealing with GBIF ingestion management issues.  
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
